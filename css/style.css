@@ -1,0 +1,56 @@
+
+body {
+    font-family: 'Raleway', sans-serif;
+    overflow-x: hidden;
+    background-color: #a3c4f5;
+}
+
+nav{
+    background-color: #8eb5f0;
+    font-size: 18px;
+    padding: 4em;
+  
+}
+
+h1 {
+font-family: 'Shantell Sans', cursive;
+color: #e5e5e5;
+text-shadow: 1px 1px 2px black;
+}
+
+h2 {
+    font-size:  14 px;
+}
+
+.phome {
+    font-size: 18px;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+
+/* FORMULARIO */
+.containerForm {
+    background-color: #8eb5f0;
+    margin-top: 5%;
+    border-radius: 2%;
+    padding-top: 3em;
+    width: 80vw;
+    margin-left: 10%;
+}
+#form {
+    background-color: rgb(20, 10, 77);
+    border-radius: 1%;
+    border-color: #e5e5e5;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    color: #e5e5e5;
+}
+
+/* Footer */
+.footer{
+    background: #636363;
+    color:white;
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+    }  
+   
